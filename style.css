@@ -1,0 +1,43 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 2rem;
+  background: #f9f9f9;
+  color: #333;
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  margin-bottom: 2rem;
+}
+
+#note-input {
+  width: 100%;
+  height: 150px;
+}
+
+.actions {
+  text-align: right;
+}
+
+section {
+  margin-top: 2rem;
+}
+
+.note {
+  background: #fff;
+  padding: 0.5rem;
+  margin: 0.25rem 0;
+  border: 1px solid #ddd;
+}
+
+.tag {
+  display: inline-block;
+  margin-right: 0.5rem;
+  background: #e0e0e0;
+  padding: 0.2rem 0.4rem;
+  border-radius: 3px;
+  font-size: 0.8rem;
+}
